@@ -6,7 +6,7 @@ the sum of all these calculations are put into the activation function,
 this calculates the output signal of the neuron.  
   
 
-![alt text](https://github.com/KROIA/Net/blob/master/WikiPictures/Neuron.png "Logo Title Text 1")
+![alt text](https://github.com/KROIA/Net/blob/master/WikiPictures/Neuron.png)
 
 Reference-style: 
 ![alt text][logo]
