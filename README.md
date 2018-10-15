@@ -8,5 +8,10 @@ this calculates the output signal of the neuron.
 
 ![alt text](https://github.com/KROIA/Net/blob/master/WikiPictures/Neuron.png "Logo Title Text 1")
 
+Reference-style: 
+![alt text][logo]
+
+[logo]: https://github.com/KROIA/Net/blob/master/WikiPictures/Neuron.png "Logo Title Text 2"
+
 ***
 # [Activation function](https://github.com/KROIA/Neural-net/wiki/The-activation-function)
