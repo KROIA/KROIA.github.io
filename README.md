@@ -1,0 +1,11 @@
+# The neuron
+The neuron is the heart of the whole network.  
+It receives the signals at the input of the neuron,  
+multiplies these by the respective weight of the connection,  
+the sum of all these calculations are put into the activation function,  
+this calculates the output signal of the neuron.  
+  
+<img src="https://github.com/KROIA/Net/blob/master/WikiPictures/Neuron.png" width="1000">  
+
+***
+# [Activation function](https://github.com/KROIA/Neural-net/wiki/The-activation-function)
