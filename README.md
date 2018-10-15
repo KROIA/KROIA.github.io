@@ -5,7 +5,8 @@ multiplies these by the respective weight of the connection,
 the sum of all these calculations are put into the activation function,  
 this calculates the output signal of the neuron.  
   
-<img src="https://github.com/KROIA/Net/blob/master/WikiPictures/Neuron.png" width="1000">  
+
+![alt text](https://github.com/KROIA/Net/blob/master/WikiPictures/Neuron.png "Logo Title Text 1")
 
 ***
 # [Activation function](https://github.com/KROIA/Neural-net/wiki/The-activation-function)
